@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "flask-web-app",
+      "title": "Building a CRUD Web App with Flask",
+      "description": "Build a simple Flask web app that supports creating, reading, updating, and deleting items.",
+      "path": "assignments/flask-web-app",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
